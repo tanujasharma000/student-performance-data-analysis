@@ -1,2 +1,19 @@
-# student-performance-data-analysis
-This project analyzes student academic data using Python libraries like Pandas, NumPy, and Matplotlib. It includes data cleaning, performance categorization, correlation analysis, and visualizations to understand the relationship between study hours, attendance, gender, and marks.
+# Student Performance Data Analysis
+
+This project analyzes student academic performance using Python.
+
+## Libraries Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## Features
+- Handling missing values
+- Performance categorization (Good, Average, Poor)
+- Attendance categorization
+- Correlation analysis
+- Data visualization using graphs
+
+## Project Type
+Practice project for learning data analysis with Python.
